@@ -1,0 +1,6 @@
+{
+  "name": "Ótica Joá - Link na Bio Oficial",
+  "description": "Acesse os contatos, endereços das lojas em São Paulo, canais de WhatsApp e redes sociais da Ótica Joá.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

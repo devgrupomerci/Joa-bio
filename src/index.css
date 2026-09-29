@@ -1,0 +1,23 @@
+@import "tailwindcss";
+
+@layer base {
+  :root {
+    --brand-petroleum: #011018;
+    --brand-lime: #D5E155;
+    --brand-white: #FCFEFE;
+    --brand-cream: #F1F5D8;
+  }
+
+  html {
+    scroll-behavior: smooth;
+    font-family: 'Plus Jakarta Sans', -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+  }
+}
+
+.petroleum-glow {
+  box-shadow: 0 0 25px -4px rgba(213, 225, 85, 0.28);
+}
+
+.petroleum-glow-subtle {
+  box-shadow: 0 0 16px -2px rgba(213, 225, 85, 0.14);
+}
