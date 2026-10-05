@@ -126,8 +126,8 @@ export const STORES_DATA: Store[] = [
     isShopping: false,
   },
   {
-    id: 'jardim-paulistano',
-    name: 'Jardim Paulistano',
+    id: 'mario-ferraz',
+    name: 'Mario Ferraz',
     badge: 'Boutique',
     type: 'rua',
     address: 'Rua Dr. Mário Ferraz, 480',

@@ -48,7 +48,7 @@ export function HeroLinks({ onScrollToStores }: HeroLinksProps) {
           </div>
           <div className="text-left">
             <div className="text-xs font-medium tracking-wide text-neutral-900">
-              Site Oficial Ótica Joá
+              E-commerce
             </div>
             <p className="text-[11px] text-neutral-500 font-light">
               Explore o catálogo exclusivo e novidades
